@@ -1,18 +1,8 @@
-/**
- * Clase que realiza el producto de los valores que se le inserten
- * dichos valores pueden ser de cualquier tipo tanto enteros como reales
- * teniendo que entrar obligatoriamente dos valores
- * 
- */
+
 
 package calculadora;
 
-/**
- * Clase que engloba todos los métodos necesarios para el producto 
- * de una calculadora 
- * @author Martin
- * 
- */
+
 
 public class Producto {
 
